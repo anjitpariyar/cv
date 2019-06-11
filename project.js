@@ -57,7 +57,7 @@ if(scrolled>=175)
  document.querySelector('.top').style.display='inline';
  else
 document.querySelector('.top').style.display='none';
-if (scrolled>=2655) {
+if (scrolled>=2600) {
 	innerkcc.style.display='inline-block';
 }
 else
