@@ -64,7 +64,7 @@ else
 	innerkcc.style.display='none';
 
 
-console.log(scrolled);
+
 	
 
 
